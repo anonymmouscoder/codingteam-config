@@ -23,4 +23,4 @@ Key Features of Plus UI Blogger Template:
 
 **Table of Contents**
 
-[TOCM]
+.. contents::
