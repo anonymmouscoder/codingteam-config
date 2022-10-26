@@ -16,7 +16,7 @@ Key Features of Plus UI Blogger Template:
 - Updated regularly
 
 # Plus UI by Fineshop Design
-![Fineshop Design](https://www.fineshopdesign.com/main/apple-icon-120x120.png "Fineshop Design")
+![Fineshop Design](https://www.fineshopdesign.com/main/apple-icon-120x120.png)
 
 ![](https://img.shields.io/github/stars/fineshop/plus-ui.svg) ![](https://img.shields.io/github/forks/fineshop/plus-ui.svg) ![](https://img.shields.io/github/tag/fineshop/plus-ui.svg) ![](https://img.shields.io/github/release/fineshop/plus-ui.svg) ![](https://img.shields.io/github/issues/fineshop/plus-ui.svg)
 
