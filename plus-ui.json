@@ -1,0 +1,26 @@
+{
+  "product": {
+    "name": "Plus UI",
+    "description": "",
+    "type": "template",
+    "version": "2.7.0",
+    "versions": {
+      "2.6.0": {},
+      "2.6.1": {},
+      "2.6.2": {}
+    },
+    "platform": {
+      "name": "Blogger",
+      "url": "https://www.blogger.com"
+    }
+  },
+  "organisation": {
+    "name": "Fineshop Design",
+    "website": "https://www.fineshopdesign.com",
+    "api": "https://api.fineshopdesign.com",
+    "developers": [
+      "Deo Kumar",
+      "Sagar Bishnoi"
+    ]
+  }
+}
