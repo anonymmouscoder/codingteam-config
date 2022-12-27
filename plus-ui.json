@@ -1,13 +1,20 @@
 {
   "product": {
     "name": "Plus UI",
-    "description": "",
+    "description": "Plus UI is a modern and user-friendly Blogger Template offering a lot of customisable Plugins.",
     "type": "template",
     "version": "2.7.0",
+    "date": "",
     "versions": {
-      "2.6.0": {},
-      "2.6.1": {},
-      "2.6.2": {}
+      "2.6.0": {
+        "date": ""
+      },
+      "2.6.1": {
+        "date": ""
+      },
+      "2.6.2": {
+        "date": ""
+      }
     },
     "platform": {
       "name": "Blogger",
@@ -16,7 +23,7 @@
   },
   "organisation": {
     "name": "Fineshop Design",
-    "website": "https://www.fineshopdesign.com",
+    "website": "https://fineshopdesign.com",
     "api": "https://api.fineshopdesign.com",
     "developers": [
       "Deo Kumar",

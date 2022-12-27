@@ -1,8 +1,8 @@
 /**
- **Icon: Google Symbols
- ** Font family: 'Google Symbols'
- ** Font weight: 100, 200, 300, 400, 500, 600, 700
-*/
+ * Icon: Google Symbols
+ * Font family: 'Google Symbols'
+ * Font weight: 100, 200, 300, 400, 500, 600, 700
+ */
 @font-face{font-family:'Google Symbols';font-style:normal;font-weight:100;font-display:block;src:url(https://fonts.gstatic.com/s/googlesymbols/v138/HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnufC_ar1J9g0sLBUv3G8teXng.woff) format('woff')}
 @font-face{font-family:'Google Symbols';font-style:normal;font-weight:100;font-display:block;src:url(https://fonts.gstatic.com/s/googlesymbols/v138/HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnv_C_ar1J9g0sLBUv3G8teXng.woff) format('woff')}
 @font-face{font-family:'Google Symbols';font-style:normal;font-weight:100;font-display:block;src:url(https://fonts.gstatic.com/s/googlesymbols/v138/HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnvfC_ar1J9g0sLBUv3G8teXng.woff) format('woff')}
