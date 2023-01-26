@@ -3,7 +3,7 @@
 🥇 Plus UI is a modern and user-friendly Blogger Template offering a lot of customisable Plugins. We have made a lot of changes in version 2.7 based on your suggestions. We have fixed some bugs in this version as well as optimised the overall experience.
 
 [![GitHub Release Date](https://img.shields.io/github/release-date/fineshop/plus-ui)](https://www.fineshopdesign.com/plus-ui/releases)
-[![GitHub package.json version](https://img.shields.io/github/package-json/v/fineshop/plus-ui)](https://www.fineshopdesign.com/plus-ui/versions)
+[![GitHub plus-ui.json version](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/fineshop/plus-ui/2.7/plus-ui.json&label=version&query=product.version&color=blue)](https://www.fineshopdesign.com/plus-ui/versions)
 [![Last Commit](https://img.shields.io/github/last-commit/fineshop/plus-ui/2.7)](https://www.fineshopdesign.com/plus-ui)
 
 * * *
