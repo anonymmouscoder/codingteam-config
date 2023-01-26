@@ -1,0 +1,21 @@
+{
+  "name": "plus-ui",
+  "version": "2.7",
+  "description": "🥇 Plus UI is a modern and user-friendly Blogger Template offering a lot of customisable Plugins. We have made a lot of changes in version 2.7.0 based on your suggestions. We have fixed some bugs in this version as well as optimised the overall experience.",
+  "main": "index.js",
+  "directories": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fineshop/plus-ui.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fineshop/plus-ui/issues"
+  },
+  "homepage": "https://github.com/fineshop/plus-ui#readme"
+}
