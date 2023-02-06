@@ -1,0 +1,7 @@
+/**
+ * Ripple CSS
+ * Last Updated: 06/02/2023
+ */
+.ripple {-moz-user-select:none;-ms-user-select:none;-webkit-user-select:none;-webkit-touch-callout:none;user-select:none;position:relative;/*overflow:hidden*/}
+.ripple .ripple_container {-webkit-transform:perspective(0);bottom:0;top:0;left:0;right:0;color:transparent;border-radius:inherit;transform:perspective(0);position:absolute;overflow:hidden;pointer-events:none}
+.ripple .ripple_container i {position:absolute;border-radius:50%;background:rgba(0,0,0,.2);transition:opacity 700ms ease 0s,transform 700ms ease 0s;-webkit-transition:opacity 700ms ease 0s,-webkit-transform 700ms ease 0s}
