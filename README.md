@@ -1,6 +1,6 @@
 # Plus UI v2.7.0
 
-🥇 Plus UI is a modern and user-friendly Blogger Template offering a lot of customisable Plugins. We have made a lot of changes in version 2.7 based on your suggestions. We have fixed some bugs in this version as well as optimised the overall experience.
+🥇 Plus UI is a modern and user-friendly Blogger Template offering a lot of customizable Plugins. We have made a lot of changes in version 2.7 based on your suggestions. We have fixed some bugs in this version as well as optimized the overall experience.
 
 [![GitHub Release Date](https://img.shields.io/github/release-date/fineshop/plus-ui)](https://www.fineshopdesign.com/plus-ui/releases)
 [![GitHub plus-ui.json version](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/fineshop/plus-ui/2.7.0/plus-ui.json&label=version&query=product.version&color=blue)](https://www.fineshopdesign.com/plus-ui/versions)
@@ -18,13 +18,13 @@ To be updated...
 
 There are a lot of features that make the reason to use this template over others, so let’s discuss those features in short.
 
-### Easy Customisation
+### Easy Customization
 
-Plus is user-friendly. Inspite of used bunch of JavaScripts in the template, it is very easy to customise the theme.
+Plus is user-friendly. In spite of used bunch of JavaScripts in the template, it is very easy to customize the theme.
 
-### Fully Documentated
+### Fully Documented
 
-We have written documentations on every features and customisation.
+We have written documentations on every features and customization.
 
 You can read them on our [theme documentation blog](https://theme.fineshopdesign.com/plus-ui).
 
@@ -34,10 +34,10 @@ Key Features of Plus UI Blogger Template are:
 
 - Fully Responsive
 - User-friendly
-- Easily Customisable
+- Easily Customizable
 - Drag and Drop Widgets
 - More Attractive Features / Plugins (Free / Paid)
-- Easy to Customise
+- Easy to Customize
 - Faster loading
 - SEO Friendly
 - Optimized for Adsense Ads

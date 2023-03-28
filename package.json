@@ -2,10 +2,10 @@
   "name": "plus-ui",
   "version": "2.7",
   "description": "🥇 Plus UI is a modern and user-friendly Blogger Template offering a lot of customisable Plugins. We have made a lot of changes in version 2.7.0 based on your suggestions. We have fixed some bugs in this version as well as optimised the overall experience.",
-  "main": "src/index.js",
+  "main": "src/index.ts",
   "directories": {},
   "scripts": {
-    "build": "npx esbuild --bundle --platform=node ./src/index.js --external:esbuild --external:chokidar --outfile=./dist/index.js",
+    "build": "npx esbuild --bundle --platform=browser ./src/index.ts --external:esbuild --external:chokidar --outfile=./dist/index.js",
     "prettify": "prettier . --write --ignore-unknown"
   },
   "repository": {
@@ -13,7 +13,7 @@
     "url": "git+https://github.com/fineshop/plus-ui.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Deo Kumar",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/fineshop/plus-ui/issues"
@@ -21,10 +21,11 @@
   "homepage": "https://github.com/fineshop/plus-ui#readme",
   "dependencies": {
     "chokidar": "^3.5.3",
-    "esbuild": "^0.15.3"
+    "esbuild": "^0.17.14"
   },
   "devDependencies": {
-    "prettier": "^2.8.3",
-    "vitest": "^0.24.3"
+    "prettier": "^2.8.7",
+    "typescript": "^5.0.2",
+    "vitest": "^0.29.7"
   }
 }
