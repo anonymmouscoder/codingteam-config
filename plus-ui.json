@@ -21,7 +21,10 @@
         "type": "fixed",
         "changes": []
       },
-      {}
+      {
+        "type": "deprecated",
+        "changes": []
+      }
     ],
     "date": "",
     "versions": [
@@ -59,14 +62,31 @@
         "uri": "https://www.fineshopdesign.com/authors/sagar_bishnoi"
       }
     ],
-    "pages": [
-      {
-        "title": "Sign In",
+    "pages": {
+      "contact": {
+        "title": "Contact",
+        "url": "https://dev.fineshopdesign.com/contact",
         "description": "",
-        "keywords": [],
-        "type": "signin",
-        "url": "https://dev.fineshopdesign.com/signin"
+        "keywords": []
+      },
+      "privacy": {
+        "title": "Privacy",
+        "url": "https://dev.fineshopdesign.com/privacy",
+        "description": "",
+        "keywords": []
+      },
+      "sign-up": {
+        "title": "Sign Up",
+        "url": "https://dev.fineshopdesign.com/sign-up",
+        "description": "",
+        "keywords": []
+      },
+      "sign-in": {
+        "title": "Sign In",
+        "url": "https://dev.fineshopdesign.com/sign-in",
+        "description": "",
+        "keywords": []
       }
-    ]
+    }
   }
 }
