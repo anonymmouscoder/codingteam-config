@@ -16,17 +16,17 @@
     ],
     "type": "template",
     "version": "2.7.0",
-    "changelogs": [
-      {
-        "type": "fixed",
-        "changes": []
-      },
-      {
-        "type": "deprecated",
-        "changes": []
-      }
-    ],
     "date": "",
+    "changelogs": {
+      "fixed": {
+        "title": "Fixed",
+        "logs": []
+      },
+      "deprecated": {
+        "title": "Deprecated",
+        "logs": []
+      }
+    },
     "versions": [
       {
         "version": "2.6.2",
@@ -88,5 +88,9 @@
         "keywords": []
       }
     }
+  },
+  "messages": {
+    "updateTemplate": "An update for Plus UI is available. It is recommended to update your template to latest version which includes bug fixes and new in-built features.",
+    "updateAvailable": "An update for Plus UI (v2.7.0) is available."
   }
 }

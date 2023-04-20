@@ -1,4 +1,5 @@
 /**
+ * Util name: Ripple
  * Ripple JS
  * Last Updated: 06/02/2023
  */
