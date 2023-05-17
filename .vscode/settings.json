@@ -8,12 +8,17 @@
 		"api-extractor.json": "jsonc"
 	},
 	"cSpell.words": [
-		"Adsense",
-		"Bishnoi",
-		"Fineshop",
-		"fineshopdesign",
-		"Kumar",
-		"Sagar",
-		"signin"
-	]
+    "Adsense",
+    "Bishnoi",
+    "CLASSNAME",
+    "codepaths",
+    "doctag",
+    "Fineshop",
+    "fineshopdesign",
+    "Kumar",
+    "navbutton",
+    "Sagar",
+    "signin",
+    "tsbuildinfo"
+  ]
 }

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html class='notranslate'>
+<html>
 
-<head>
+<head class='notranslate'>
   <!--[ File Title ]-->
   <title>%TITLE%</title>
   <!--[ Meta for browser ]-->
@@ -20,11 +20,13 @@
   <link href='%FAVICON_URL%' rel='shortcut icon' type='image/x-icon' />
   <!--[ CSS Stylesheets ]-->
   <style>
+    /* Font: JetBrains Mono */
     @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,300;0,400;1,300;1,400&display=swap');
+    /* Variables */
     :root {
       --font-code: "JetBrains Mono";
     }
-    .code-preformatted {
+    .code-container {
       font-family: var(--font-code);
       font-size: 13px;
     }
@@ -35,9 +37,9 @@
   <!--[ Main Wrapper ]-->
   <div class='main-wrapper'>
     <!--[ Code Placement ]-->
-    <div class='code-container'>
-      <pre class='code-preformatted'>%CODE_SNIPPET%</pre>
-    </div>
+    <pre class='code-container notranslate'>
+      <code>%CODE_SNIPPET%</code>
+    </pre>
   </div>
   <!--[ Scripts ]-->
   <script></script>
