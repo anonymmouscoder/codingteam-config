@@ -1,4 +1,4 @@
-# Plus UI v2.7.0
+# Plus UI v2.7
 
 🥇 Plus UI is a modern and user-friendly Blogger Template offering a lot of customizable Plugins. We have made a lot of changes in version 2.7 based on your suggestions. We have fixed some bugs in this version as well as optimized the overall experience.
 
