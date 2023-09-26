@@ -1,0 +1,70 @@
+{
+  "product": {
+    "name": "Coding Team UI",
+    "description": "🥇 Coding Team UI is a modern and user-friendly Blogger Template offering a lot of customisable Plugins. We have made a lot of changes in version 2.7.0 based on your suggestions. We have fixed some bugs in this version as well as optimised the overall experience.",
+    "keywords": [
+      "Coding Team UI Blogger Template",
+      "Coding Team UI, Blogger Theme",
+      "Coding Team UI 2.7"
+    ],
+    "images": [
+      {
+        "src": "",
+        "sizes": "",
+        "type": "image/png"
+      }
+    ],
+    "type": "template",
+    "version": "2.7.0",
+    "changelogs": [
+      {
+        "type": "fixed",
+        "changes": []
+      },
+      {
+        "type": "deprecated",
+        "changes": []
+      }
+    ],
+    "date": "",
+    "versions": [
+      {
+        "version": "2.6.2",
+        "date": ""
+      },
+      {
+        "version": "2.6.1",
+        "date": ""
+      },
+      {
+        "version": "2.6.0",
+        "date": ""
+      }
+    ],
+    "platform": {
+      "name": "Blogger",
+      "url": "https://www.blogger.com"
+    }
+  },
+  "organization": {
+    "name": "Coding Team",
+    "website": "https://codingteam.tech",
+    "blog": "https://www.codingteam.tech",
+    "api": "https://api.codingteam.tech",
+    "dev": "https://dev.codingteam.tech",
+    "developers": [
+      {
+        "name": "Aliou",
+        "uri": "https://t.me/A_liou"
+      }
+    ],
+    "pages": {
+      "contact": {
+        "title": "Contact",
+        "url": "https://dev.codingteam.tech/contact",
+        "description": "",
+        "keywords": []
+      }
+    }
+  }
+}
